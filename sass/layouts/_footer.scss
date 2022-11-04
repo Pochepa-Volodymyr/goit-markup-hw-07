@@ -60,6 +60,7 @@
 .footer-container {
     @extend %align-elements;
     gap: 91px;
+    align-items: baseline;
 }
 
 .invitation-title {

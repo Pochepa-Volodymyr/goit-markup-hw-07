@@ -642,6 +642,7 @@ img {
 
 .footer-container {
   gap: 91px;
+  align-items: baseline;
 }
 
 .invitation-title {
